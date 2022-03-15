@@ -1,4 +1,10 @@
-# file: ~/.gitignore_global
+# dependencies
+/node_modules
+
+# misc
 .DS_Store
-.idea
-.eslintrc.js
+
+.env
+
+uploads/resized/*
+!uploads/resized/.gitkeep

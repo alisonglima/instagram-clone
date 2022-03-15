@@ -1,23 +1,37 @@
-<h2 align="center">
-  🚀 Semana OmniStack 7.0
-</h2>
+<h1 align="center">Insta Clone</h1>
+
+<h4 align="center">
+  ☕ Code and coffee
+</h4>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :rocket: Technologies
+<br>
 
-This project was developed with the following technologies:
+## :rocket: Tecnologias
 
-- [Node.js](https://nodejs.org/en/) <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/node-logo.png" alt="NodeJS" width="15"/>
-- [React](https://reactjs.org) <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/react-logo.png" alt="ReactJS" width="15"/>
-- [React Native](https://facebook.github.io/react-native/) <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/react-native-logo.png" alt="React Native" width="15"/>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 💻 Project
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
 
-Project developed during RocketSeat's OmniStack 7.0 Week, based on the NodeJs, ReactJs and React Native stack. It was based on an Instagram clone.
+## 💻 Projeto
+
+O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/heroku-logo.png" alt="Heroku" width="35"/> Deploy 
 

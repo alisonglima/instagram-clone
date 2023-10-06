@@ -5,7 +5,8 @@ form#new-post {
   padding: 12px;
   background: #fff;
   border: 1px solid #ddd;
-
+  flex-direction: row-reverse;
+  padding: 2rem 4rem 2rem 4rem;
   display: flex;
   flex-direction: column;
 }

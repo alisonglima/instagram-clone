@@ -58,9 +58,9 @@ section#post-list article footer .actions img {
 }
 
 section#post-list article footer p {
-  font-size: 13px;
-  margin-top: 2px;
-  line-height: 18px;
+  font-size: 0.8rem;
+  margin-top: 0.4rem;
+  line-height: 5rem;
 }
 
 section#post-list article footer p span {

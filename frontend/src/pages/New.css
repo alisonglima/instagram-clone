@@ -23,12 +23,12 @@ form#new-post input[type=text] {
 }
 
 form#new-post button {
-  padding: 10px 20px;
-  border-radius: 4px;
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.25rem;
   border: 0;
   background: #7159c1;
   color: #FFF;
-  font-size: 14px;
-  font-weight: bold;
+  font-size: 0.875rem;
+  font-weight: 700;
   cursor: pointer;
 }
